@@ -59,7 +59,7 @@ const Studio = () => {
             Studio
           </h1>
           <p className="max-w-2xl text-gray-600">
-            Founded in 2024, flying<span className="font-bold">monké</span>is a dynamic architectural and interior design practice dedicated to shaping compelling environments. We bring a fresh, innovative perspective and keen design intelligence to every project, ensuring our solutions are both visionary and exceptionally practical. Our focus is on crafting inspiring, contextually rich spaces that truly resonate with their users and redefine the built environment for lasting impact.
+            Founded in 2024, flying<span className="font-bold">monké</span> is a dynamic architectural and interior design practice dedicated to shaping compelling environments. We bring a fresh, innovative perspective and keen design intelligence to every project, ensuring our solutions are both visionary and exceptionally practical. Our focus is on crafting inspiring, contextually rich spaces that truly resonate with their users and redefine the built environment for lasting impact.
           </p>
         </div>
       </section>
